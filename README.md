@@ -14,7 +14,7 @@ Hi, I'm Dylan Sleith, a front-end developer and student passionate about buildin
 &nbsp;
 [![GitHub sleithdylan](https://img.shields.io/github/followers/sleithdylan?label=follow&style=social)](https://github.com/sleithdylan)
 
-![sleithdylan's github stats](https://github-readme-stats.vercel.app/api?username=sleithdylan)
+![sleithdylan's github stats](https://github-readme-stats.vercel.app/api?username=sleithdylan&hide=stars&count_private=true&show_icons=true&theme=prussian)
 
 <!--
 **sleithdylan/sleithdylan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
