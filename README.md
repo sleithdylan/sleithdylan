@@ -1,6 +1,6 @@
 [![GitHub Header by Dylan Sleith](./assets/social-header.jpg)](https://www.dylansleith.com)
 
-Design-minded software engineer passionate about building high-quality and thoughtful websites and web applications.
+Design-minded software engineer passionate about building high-quality, thoughtful websites and web applications.
 
 - 🌱 I’m currently learning Next.js
 - 🎓 Bachelor of Science in Computer Science and Applied Physics.
