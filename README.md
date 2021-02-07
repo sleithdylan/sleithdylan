@@ -4,7 +4,7 @@ Design-minded software engineer passionate about building high-quality and thoug
 
 - 🌱 I’m currently learning Next.js
 - 🎓 Bachelor of Science in Computer Science and Applied Physics.
-- 🎉 Fun-Fact: I ❤️ Halo
+- 🎉 Fun fact: I ❤️ Halo
 
 **Connect with me:**
 
