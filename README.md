@@ -1,4 +1,4 @@
-[![GitHub Header by Dylan Sleith](./assets/github-header.jpg)](https://www.dylansleith.com)
+[![GitHub Header by Dylan Sleith](./assets/social-header.jpg)](https://www.dylansleith.com)
 
 Design-minded software engineer passionate about building high-quality and thoughtful websites and web applications.
 
