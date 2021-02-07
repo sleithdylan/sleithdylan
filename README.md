@@ -1,20 +1,16 @@
-## Hi there, I'm [Dylan!](https://www.dylansleith.com) 👋
+[![GitHub Header by Dylan Sleith](./assets/github-header.jpg)](https://www.dylansleith.com)
 
-<br />
+Design-minded software engineer passionate about building high-quality and thoughtful websites and web applications.
 
-Hi, I'm Dylan Sleith, a front-end developer and student passionate about building & designing stunning web applications.
+- 🌱 I’m currently learning Next.js
+- 🎓 Bachelor of Science in Computer Science and Applied Physics.
+- 🎉 Fun-Fact: I ❤️ Halo
 
-- 🌱 I’m currently learning React JS
+**Connect with me:**
 
-**Connect with me:**  
+<a href="https://twitter.com/dylansleith"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/dylansleith"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/dylansleith"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
 
-[![Twitter: dylansleith](https://img.shields.io/twitter/follow/dylansleith?style=social)](https://twitter.com/dylansleith)
-&nbsp;
-[![Linkedin: dylansleith](https://img.shields.io/badge/-dylansleith-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dylansleith/)](https://www.linkedin.com/in/dylansleith/)
-&nbsp;
-[![GitHub sleithdylan](https://img.shields.io/github/followers/sleithdylan?label=follow&style=social)](https://github.com/sleithdylan)
-
-![sleithdylan's github stats](https://github-readme-stats.vercel.app/api?username=sleithdylan&hide=stars&count_private=true&show_icons=true&theme=prussian)
+![sleithdylan's github stats](https://github-readme-stats.vercel.app/api?username=sleithdylan&hide=stars&count_private=true&show_icons=true&theme=graywhite)
 
 <!--
 **sleithdylan/sleithdylan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,5 +26,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
