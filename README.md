@@ -1,12 +1,12 @@
 [![GitHub Header by Dylan Sleith](./assets/social-header.jpg)](https://www.dylansleith.com)
 
-Design-minded software engineer passionate about building high-quality, thoughtful websites and web applications.
+Design-minded software engineer passionate about building high-quality and thoughtful websites.
 
 - 🌱 I’m currently learning Next.js
-- 🎓 Bachelor of Science in Computer Science and Applied Physics.
+- 🎓 Hons Degree in Computing and Digital Media.
 - 🎉 Fun fact: I ❤️ Halo
 
-**Connect with me:**
+#### 📬 Find me at
 
 <a href="https://twitter.com/dylansleith"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/dylansleith"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/dylansleith"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
 
