@@ -1,5 +1,6 @@
 [![GitHub Header by Dylan Sleith](./assets/social-header.jpg)](https://www.dylansleith.com)
 
+## 👨‍💻 About
 Design-minded software engineer passionate about building high-quality and thoughtful websites.
 
 - 🔭 I’m currently working as a **Software Engineer @ Flipdish**
@@ -7,7 +8,7 @@ Design-minded software engineer passionate about building high-quality and thoug
 - 🎓 Hons Degree in **Computing and Digital Media**
 - 🎉 Fun fact: I ❤️ **Halo**
 
-#### 🛠️ Skills
+## 🛠️ Skills
 
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -29,13 +30,13 @@ Design-minded software engineer passionate about building high-quality and thoug
 ![](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=GitHub&logoColor=white)
 ![](https://img.shields.io/badge/-Git-F44D27?style=for-the-badge&logo=Git&logoColor=white)
 
-#### 📬 Find me at
+## 📬 Find me at
 
 <a href="https://twitter.com/dylansleith"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/dylansleith"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.instagram.com/dylansleith"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 
-#### 📊 Stats
+## 📊 Stats
 
 ![sleithdylan's github stats](https://github-readme-stats.vercel.app/api?username=sleithdylan&hide=stars&count_private=true&include_all_commits=true&show_icons=true&theme=graywhite)
 
