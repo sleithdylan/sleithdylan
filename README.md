@@ -38,9 +38,8 @@ Design-minded software engineer passionate about building high-quality and thoug
 
 ## 📊 Stats
 
-![sleithdylan's github stats](https://github-readme-stats.vercel.app/api?username=sleithdylan&hide=stars&count_private=true&include_all_commits=true&show_icons=true&theme=graywhite)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=graywhite)
+| <a href="https://github.com/sleithdylan"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sleithdylan&hide=stars&count_private=true&show_icons=true&include_all_commits=true&theme=graywhite&hide_border=true" alt="Dylan's github stats" /></a> | <a href="https://github.com/sleithdylan"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sleithdylan&layout=compact&theme=graywhite&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 <!--
 **sleithdylan/sleithdylan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
