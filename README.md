@@ -6,7 +6,7 @@ Design-minded software engineer passionate about building high-quality and thoug
 
 - 🔭 I’m currently working as a **Software Engineer @ Flipdish**
 - 🌱 I’m currently learning **TypeScript**
-- 🎉 Fun fact: I ❤️ **Halo**<span style="vertical-align: text-top;padding-left: 5px"><img src="./assets/chief.webp" height="25" /></span>
+- 🎉 Fun fact: I ❤️ **Halo**
 
 ## 🛠️ Skills
 
