@@ -1,18 +1,19 @@
 [![GitHub Header by Dylan Sleith](./assets/social-header.jpg)](https://www.dylansleith.com)
 
 ## 👨‍💻 About
+
 Design-minded software engineer passionate about building high-quality and thoughtful websites.
 
 - 🔭 I’m currently working as a **Software Engineer @ Flipdish**
 - 🌱 I’m currently learning **TypeScript**
-- 🎓 Hons Degree in **Computing and Digital Media**
-- 🎉 Fun fact: I ❤️ **Halo**
+- 🎉 Fun fact: I ❤️ **Halo**<span style="vertical-align: text-top;padding-left: 5px"><img src="./assets/chief.webp" height="25" /></span>
 
 ## 🛠️ Skills
 
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -39,7 +40,7 @@ Design-minded software engineer passionate about building high-quality and thoug
 ## 📊 Stats
 
 | <a href="https://github.com/sleithdylan"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sleithdylan&hide=stars&count_private=true&show_icons=true&include_all_commits=true&theme=graywhite&hide_border=true" alt="Dylan's github stats" /></a> | <a href="https://github.com/sleithdylan"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sleithdylan&layout=compact&theme=graywhite&hide_border=true" /></a> |
-| ------------- | ------------- |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <!--
 **sleithdylan/sleithdylan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
