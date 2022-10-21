@@ -5,7 +5,7 @@
 Design-minded software engineer passionate about building high-quality and thoughtful websites.
 
 - 🔭 I’m currently working as a **Software Engineer @ Flipdish**
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **Docker**
 - 🎉 Fun fact: I ❤️ **Halo**
 
 ## 🛠️ Skills
