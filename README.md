@@ -2,10 +2,10 @@
 
 ## 👨‍💻 About
 
-Design-minded software engineer passionate about building high-quality and thoughtful websites.
+An experienced software engineer with a passion for developing stunning and robust websites.
 
-- 🔭 I’m currently working as a **Software Engineer @ Flipdish**
-- 🌱 I’m currently learning **Docker**
+<!-- - 🔭 I’m currently working as a **Software Engineer @ Company** -->
+- 🌱 I’m currently learning **GraphQL**
 - 🎉 Fun fact: I ❤️ **Halo**
 
 ## 🛠️ Skills
