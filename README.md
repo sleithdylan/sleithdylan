@@ -39,7 +39,7 @@ An experienced software engineer with a passion for developing stunning and robu
 
 ## 📊 Stats
 
-| <a href="https://github.com/sleithdylan"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sleithdylan&hide=stars&count_private=true&show_icons=true&include_all_commits=true&title_color=6366f1&text_color=818cf8&icon_color=818cf8&hide_border=true" alt="Dylan's github stats" /></a> | <a href="https://github.com/sleithdylan"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sleithdylan&layout=compact&theme=graywhite&hide_border=true" /></a> |
+| <a href="https://github.com/sleithdylan"><img align="center" src="https://github-readme-stats-sleithdylan.vercel.app/api?username=sleithdylan&hide=stars&count_private=true&show_icons=true&include_all_commits=true&title_color=6366f1&text_color=818cf8&icon_color=818cf8&hide_border=true" alt="Dylan's github stats" /></a> | <a href="https://github.com/sleithdylan"><img align="center" src="https://github-readme-stats-sleithdylan.vercel.app/api/top-langs/?username=sleithdylan&layout=compact&theme=graywhite&hide_border=true" /></a> |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <!--
