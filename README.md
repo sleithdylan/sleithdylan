@@ -32,16 +32,31 @@ An experienced software engineer with a passion for developing stunning and robu
 ![](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=GitHub&logoColor=white)
 ![](https://img.shields.io/badge/-Git-F44D27?style=for-the-badge&logo=Git&logoColor=white)
 
-## 📬 Find me at
+## 📬 Reach me at
 
 <a href="https://twitter.com/dylansleith"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/dylansleith"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://www.instagram.com/dylansleith"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="mailto:sleithdylan@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 ## 📊 Stats
 
 | <a href="https://github.com/sleithdylan"><img align="center" src="https://github-readme-stats-sleithdylan.vercel.app/api?username=sleithdylan&hide=stars&count_private=true&show_icons=true&include_all_commits=true&title_color=6366f1&text_color=818cf8&icon_color=818cf8&hide_border=true" alt="Dylan's github stats" /></a> | <a href="https://github.com/sleithdylan"><img align="center" src="https://github-readme-stats-sleithdylan.vercel.app/api/top-langs/?username=sleithdylan&layout=compact&theme=graywhite&hide_border=true" /></a> |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+## ⚡ Tech Stacks
+
+| My Go-to Stacks | |
+| :---: | --- |
+| Frontend | <img src="https://skillicons.dev/icons?i=ts,next,react,tailwind,html,css,vercel&perline=8" height="32" /> |
+| Backend | <img src="https://skillicons.dev/icons?i=ts,nodejs,firebase&perline=8" height="32" /> |
+| Mobile | <img src="https://skillicons.dev/icons?i=ts,react,tailwind" height="32" /> |
+
+## 🧰 Tools
+
+| My Go-to Tools | |
+| :---: | --- |
+| Tools | <img src="https://skillicons.dev/icons?i=vscode,github,webpack,figma,postman,docker&perline=8" height="32" /> |
+
 
 <!--
 **sleithdylan/sleithdylan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
