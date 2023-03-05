@@ -36,7 +36,7 @@ An experienced software engineer with a passion for developing stunning and robu
 
 <a href="https://twitter.com/dylansleith"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/dylansleith"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:sleithdylan@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:hello@dylansleith.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 ## 📊 Stats
 
