@@ -49,7 +49,7 @@ An experienced software engineer with a passion for developing stunning and robu
 | :---: | --- |
 | Frontend | <img src="https://skillicons.dev/icons?i=ts,next,react,tailwind,html,css,vercel&perline=8" height="32" /> |
 | Backend | <img src="https://skillicons.dev/icons?i=ts,nodejs,firebase&perline=8" height="32" /> |
-| Mobile | <img src="https://skillicons.dev/icons?i=ts,react,tailwind" height="32" /> |
+| Mobile | <img src="https://skillicons.dev/icons?i=ts,react" height="32" /> |
 
 ## 🧰 Tools
 
