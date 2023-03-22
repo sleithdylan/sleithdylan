@@ -43,19 +43,13 @@ An experienced software engineer with a passion for developing stunning and robu
 | <a href="https://github.com/sleithdylan"><img align="center" src="https://github-readme-stats-sleithdylan.vercel.app/api?username=sleithdylan&hide=stars&count_private=true&show_icons=true&include_all_commits=true&title_color=6366f1&text_color=818cf8&icon_color=818cf8&hide_border=true" alt="Dylan's github stats" /></a> | <a href="https://github.com/sleithdylan"><img align="center" src="https://github-readme-stats-sleithdylan.vercel.app/api/top-langs/?username=sleithdylan&layout=compact&theme=graywhite&hide_border=true" /></a> |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-## ⚡ Tech Stacks
+## ⚡ Tech Stacks/Tools
 
-| My Go-to Stacks | |
-| :---: | --- |
-| Frontend | <img src="https://skillicons.dev/icons?i=ts,next,react,tailwind,html,css,vercel&perline=8" height="32" /> |
-| Backend | <img src="https://skillicons.dev/icons?i=ts,nodejs,firebase&perline=8" height="32" /> |
-| Mobile | <img src="https://skillicons.dev/icons?i=ts,react" height="32" /> |
-
-## 🧰 Tools
-
-| My Go-to Tools | |
-| :---: | --- |
-| Tools | <img src="https://skillicons.dev/icons?i=vscode,github,webpack,figma,postman,docker&perline=8" height="32" /> |
+| My Go-to Stacks | | My Go-to Tools | |
+| :---: | --- | :---: | --- |
+| Frontend | <img src="https://skillicons.dev/icons?i=ts,next,react,tailwind,html,css,vercel&perline=8" height="32" /> | Tools | <img src="https://skillicons.dev/icons?i=vscode,github,webpack,figma,postman,docker&perline=8" height="32" /> |
+| Backend | <img src="https://skillicons.dev/icons?i=ts,nodejs,firebase&perline=8" height="32" /> | | |
+| Mobile | <img src="https://skillicons.dev/icons?i=ts,react" height="32" /> | | |
 
 
 <!--
