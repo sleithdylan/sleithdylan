@@ -52,7 +52,7 @@ An experienced software engineer with a passion for developing stunning and robu
 
 ## ⚡ Tech Stacks/Tools
 
-| My Go-to Stacks |                                                                                                           | My Go-to Tools |                                                                                                                    |
+|    Go-to Stacks |                                                                                                           |    Go-to Tools |                                                                                                                    |
 | :-------------: | --------------------------------------------------------------------------------------------------------- | :------------: | ------------------------------------------------------------------------------------------------------------------ |
 |    Frontend     | <img src="https://skillicons.dev/icons?i=ts,next,react,tailwind,html,css,vercel&perline=8" height="34" /> |     Tools      | <img src="https://skillicons.dev/icons?i=vscode,github,webpack,figma,postman,jest,docker&perline=8" height="34" /> |
 |     Backend     | <img src="https://skillicons.dev/icons?i=ts,nodejs,supabase&perline=8" height="34" />                     |                |                                                                                                                    |
