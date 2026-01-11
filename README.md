@@ -5,7 +5,7 @@
 An experienced software engineer with a passion for developing stunning and robust websites.
 
 - 🔭 I’m currently working as a **Software Engineer @ Ellucian**
-- 🌱 I’m currently learning **TanStack Query**
+- 🌱 I’m currently learning **Go**
 - 🎉 Fun fact: I ❤️ **Halo**
 
 ## 🛠️ Skills
